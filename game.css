@@ -1,0 +1,91 @@
+.choice-container {
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 1.8rem;
+    border: 0.1rem solid #f5347f;
+    border-radius: 40px;
+    background-color: white;
+}
+
+.choice-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(254, 122, 201, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 4000ms;
+}
+.choice-prefix{
+    padding: 1.5rem 2.5rem;
+    background-color: #f5347f;
+    border-radius: 150px;
+    color: white;
+}
+
+.choice-text{
+    padding: 1.5rem;
+    width: 100%;
+}
+
+.correct {
+    background-color: #28a745;
+}
+
+.incorrect {
+    background-color: #dc3545;
+}
+
+#hud {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hud-main-text {
+    text-align: center;
+}
+
+#progressBar {
+    width: 20rem;
+    height: 4rem;
+    border-radius: .5rem;
+    border: .5rem solid #f5347f;
+    margin-top: 1.5rem;
+}
+
+#progressBarFull {
+    height: 3.4rem;
+    background-color: #f5347f;
+    width: 0%;
+
+}
+
+.btn2 {
+    font-size: 1.8rem;
+    padding: 2rem 0;
+    width: 15rem;
+    height: 6rem;
+    text-align: center;
+    border: 0.1rem solid #f5347f;
+    border-radius: 20rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: #f5347f;
+    background-color: white;
+}
+
+.btn2:hover {
+    cursor: pointer;
+    color: rgba(254, 122, 201, 0.5);
+    box-shadow: 0 0 1rem rgba(254, 122, 201, 0.5);
+}
+
+.btn2[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
