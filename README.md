@@ -19,7 +19,7 @@ Key Features:
 
 -Final Score: At the end of the quiz, user can view final score.
 
--Correct Answer Display: If answer is incorrect, the correct answer is revealed.
+-Answer Status Display: Display whether the clicked answer is correct or not.
 
 -Score Saving: Can save scores with name,
 
