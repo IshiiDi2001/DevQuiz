@@ -1,7 +1,9 @@
 ![Main page](<Screenshot 2023-10-11 133541.png>)
-
-
-
+![Alt text](<Screenshot 2023-10-11 133821.png>) 
+![Alt text](<Screenshot 2023-10-11 133623.png>) 
+![Alt text](<Screenshot 2023-10-11 133655.png>) 
+![Alt text](<Screenshot 2023-10-11 133721.png>) 
+![Alt text](<Screenshot 2023-10-11 133801.png>)
 
 
 Project Title: DevQuiz - simple quiz website
