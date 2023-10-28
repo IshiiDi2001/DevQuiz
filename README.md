@@ -6,7 +6,7 @@
 ![Alt text](<Screenshot 2023-10-11 133801.png>)
 
 
-Project Title: DevQuiz - simple quiz website
+Project Title: DevQuiz - simple quiz website using HTML , CSS and JavaScript
 
 Description:
 My Interactive Quiz Website is a user-friendly educational platform developed using HTML, CSS, and JavaScript. It offers a range of engaging features designed to enhance the learning experience.
